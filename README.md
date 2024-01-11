@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <title>Jolly Juice Rehabilitation Club Registration</title>
